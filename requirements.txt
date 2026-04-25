@@ -2,3 +2,7 @@ fastapi
 uvicorn
 httpx
 watchfiles
+pytest
+pytest-asyncio
+pytest-cov
+pytest-mock
